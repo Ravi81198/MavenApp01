@@ -12,5 +12,8 @@
 
   	
   </dependencies>
+ <build>
+  <finalName>abc</finalName>
+</build>
   
 </project>
